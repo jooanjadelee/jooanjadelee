@@ -5,4 +5,4 @@
 Interested in AI and computer vision!
 
 Studying hard to become a software developer 💪
-\n Building projects and Learning by doing
+\nBuilding projects and Learning by doing
