@@ -2,7 +2,7 @@
 
 🇰🇷 High school student from South Korea
 
-Interested in AI and computer vision!
+Interested in **AI and computer vision!**
 
 Studying hard to become a software developer 💪
 
